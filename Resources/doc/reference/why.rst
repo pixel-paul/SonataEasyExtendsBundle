@@ -103,4 +103,4 @@ At last you can run:
 
 .. note::
 
-    Note that the `--dest` option allows you to choose the target directory, such as `src`. Default destination is `app/`.
+    Note that the `--d` option allows you to choose the target directory, such as `src`. Default destination is `app/`.
